@@ -1,4 +1,6 @@
 ---
+title: "Ada For The C Developer"
+description: "This document will present using the Ada language in applications using terminology and examples that are familiar to embedded C developers."
 parts:
   - title: "The Basics"
     chapters:
