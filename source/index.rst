@@ -10,6 +10,8 @@ Welcome to Ada for the C Programmer's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   source_link
+
 
 
 Indices and tables
