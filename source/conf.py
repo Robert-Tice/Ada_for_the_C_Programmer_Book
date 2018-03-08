@@ -73,6 +73,11 @@ rst_prolog = """
 .. |code_examples_server| replace:: 127.0.0.1:8000
 """
 
+html_context = {
+    'code_examples_server': '127.0.0.1',
+    'code_examples_port': '8000',
+}
+
 
 # -- Options for HTML output -------------------------------------------------
 
