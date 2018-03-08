@@ -37,7 +37,7 @@ Test
 This is a test of inserting code blocks in the markdown
 
 .. raw:: html
-   :file: _static/hello_world.html
+   :file: source/code_examples/hello_world.html
 
 --------------
 
