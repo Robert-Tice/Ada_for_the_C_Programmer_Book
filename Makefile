@@ -1,5 +1,5 @@
 # Minimal makefile for Sphinx documentation
-#
+# http://nikhilism.com/post/2012/automatic-github-pages-generation-from/
 
 # You can set these variables from the command line.
 SPHINXOPTS    =
