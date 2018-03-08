@@ -69,6 +69,10 @@ exclude_patterns = []
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
 
+rst_prolog = """
+.. |code_examples_server| replace:: 127.0.0.1:8000
+"""
+
 
 # -- Options for HTML output -------------------------------------------------
 
