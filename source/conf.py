@@ -51,10 +51,6 @@ templates_path = ['_templates']
 source_suffix = ['.rst', '.md']
 # source_suffix = '.rst'
 
-rst_prolog = """
-.. |example_server| replace:: 127.0.0.1:8000
-"""
-
 # The master toctree document.
 master_doc = 'index'
 
