@@ -38,7 +38,7 @@ This is a test of inserting code blocks in the markdown
 
 .. raw:: html
 
-   <div example_editor="Hello World" example_server="{{ code_examples_server }}:{{ code_examples_port }}"></div>
+   <div example_editor="Hello World" example_server="https://cloudchecker.r53.adacore.com"></div>
 
 --------------
 
