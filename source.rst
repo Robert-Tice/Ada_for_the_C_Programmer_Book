@@ -37,7 +37,7 @@ Test
 This is a test of inserting code blocks in the markdown
 
 .. raw:: html
-   :file: source/code_examples/hello_world.html
+   <div example_editor="Hello World" example_server="{{ code_examples_server }}:{{ code_examples_port }}"></div>
 
 --------------
 
