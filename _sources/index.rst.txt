@@ -3,20 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Ada for the C Programmer's documentation!
+Ada for the C Programmer
 ====================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    source_link
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
